@@ -109,7 +109,7 @@
     }
 }*/
 
-@media (max-width: 425px) {
+@media (max-width: 700px) {
     #font-link {
         font-size: 25px !important;
     }
@@ -141,8 +141,8 @@
 }
 
 .comments-border{
-    padding-top:30px;
-    padding-bottom: 30px;
+    padding-top:15px;
+    padding-bottom: 15px;
 }
 
 .commentsWords {
