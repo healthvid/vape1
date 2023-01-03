@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vape1/static/css/main.f02a0e44.css",
+    "main.css": "/vape1/static/css/main.4ba8eded.css",
     "main.js": "/vape1/static/js/main.aa44585b.js",
     "static/js/787.ecb9457e.chunk.js": "/vape1/static/js/787.ecb9457e.chunk.js",
     "static/media/main_video.mp4": "/vape1/static/media/main_video.8df7f245501aed729f28.mp4",
@@ -15,12 +15,12 @@
     "static/media/fa-v4compatibility.ttf": "/vape1/static/media/fa-v4compatibility.ea8535110e0c42fd0046.ttf",
     "static/media/fa-v4compatibility.woff2": "/vape1/static/media/fa-v4compatibility.2ec4574b00d1d21ed0a3.woff2",
     "index.html": "/vape1/index.html",
-    "main.f02a0e44.css.map": "/vape1/static/css/main.f02a0e44.css.map",
+    "main.4ba8eded.css.map": "/vape1/static/css/main.4ba8eded.css.map",
     "main.aa44585b.js.map": "/vape1/static/js/main.aa44585b.js.map",
     "787.ecb9457e.chunk.js.map": "/vape1/static/js/787.ecb9457e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f02a0e44.css",
+    "static/css/main.4ba8eded.css",
     "static/js/main.aa44585b.js"
   ]
 }
