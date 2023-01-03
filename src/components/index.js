@@ -1,7 +1,6 @@
 import React from "react";
 import main_video from './Videos/main_video.mp4';
 import Introduction from "./introduction";
-import Comments from './newComments'
 import "./style.css"
 import main_pic from './Videos/main_pic.png';
 import FontLink from "./fontLink";
